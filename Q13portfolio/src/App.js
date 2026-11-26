@@ -23,7 +23,7 @@ function App() {
       <header className="header">
         <nav className="nav" aria-label="Main navigation">
           <a className="brand" href="#home" aria-label="Krishna portfolio home">
-            Krishna<span>.</span>
+            Harsh<span>.</span>
           </a>
           <div className="nav-links">
             <a href="#about">About</a>
@@ -39,7 +39,7 @@ function App() {
           <div className="hero-copy">
             <p className="eyebrow">MCA Student &amp; Web Developer</p>
             <h1>
-              Hi, I'm <span>Krishna</span>
+              Hi, I'm <span>Harsh</span>
             </h1>
             <p className="hero-description">
               I build clean, responsive and user-friendly websites using modern
@@ -66,7 +66,7 @@ function App() {
           </div>
           <div className="about-card">
             <p>
-              I am Krishna, a passionate web developer and MCA student at GLA
+              I am Harsh, a passionate web developer and MCA student at GLA
               University. I enjoy turning ideas into polished digital experiences
               and continuously improving my skills.
             </p>
@@ -127,15 +127,15 @@ function App() {
           </div>
           <div className="contact-details">
             <a href="mailto:krishna.kumar_mca26@gla.ac.in">
-              krishna.kumar_mca26@gla.ac.in
+              harshsaxena184507@gmail.com
             </a>
-            <a href="tel:+919369356608">+91 93693 56608</a>
+            <a href="tel:+919369356608">+91 8979754487</a>
           </div>
         </section>
       </main>
 
       <footer>
-        <p>© {new Date().getFullYear()} Krishna. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Harsh. All rights reserved.</p>
       </footer>
     </div>
   );
